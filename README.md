@@ -36,7 +36,7 @@ Some things I want to add in upcoming releases:
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js?v=0
+    - url: /local/searchable-list-card/searchable-list-card.js
       type: module
   ```
 
@@ -48,7 +48,7 @@ Some things I want to add in upcoming releases:
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js?v=0
+    - url: /local/searchable-list-card/searchable-list-card.js
       type: module
   ```
 
