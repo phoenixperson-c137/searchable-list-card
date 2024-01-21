@@ -8,11 +8,15 @@ This is a very early version, done very quick and dirty.
 
 Please add your improvement suggestions, and feel free to contribute.
 
-<!-- ![Demo of card](images/demo.gif) -->
+### Demo
+
+| Add an item | Find an item | Check / uncheck an item |
+|-------------|-------------|-------------|
+| ![Add an item](images/add_item.gif) | ![Find an item](images/find_item.gif) | ![Check / uncheck an item](images/check_uncheck_item.gif)
 
 ## Features
 
-* The Add item textfield is now also a search bar
+* The Add item textfield now doubles as a search bar
 * Helps find existing items and avoid creating duplicates
 
 ## Roadmap
